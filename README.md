@@ -40,10 +40,8 @@ sap-sandbox-accounting は、オンプレミス版である（＝クラウド版
 
 ##### READS
 
-* 
- [sap-api-integrations-accounting-document-reads](https://github.com/latonaio/sap-api-integrations-accounting-document-reads)
-* 
- [sap-api-integrations-payment-requisition-reads](https://github.com/latonaio/sap-api-integrations-payment-requisition-reads)
+*  [sap-api-integrations-accounting-document-reads](https://github.com/latonaio/sap-api-integrations-accounting-document-reads)
+*  [sap-api-integrations-payment-requisition-reads](https://github.com/latonaio/sap-api-integrations-payment-requisition-reads)
  
 
 ##### CREATES
