@@ -3,9 +3,9 @@
 ***
 
 # sap-sandbox-accounting  
-sap-sandbox-accounting は、主にエッジコンピューティング環境において、会計に関する機能について、外部システムをSAPと統合することを目的として作成されたリソースをまとめたリポジトリです。  
-sap-sandbox-accounting の 「sandbox」は、Netflix 韓国ドラマ 「START-UP」 より、すべての開発者のための 地ならし になればという想いから命名されました。  
-なお、各リポジトリのリソースは、そのままクラウド環境におけるアプリケーションにも適用可能です。  
+sap-sandbox-accounting は、会計に関する SAP APIサービスが、Latonaが整備したSAP環境内で、有効化されているかどうかを示したレポジトリです。
+sap-sandbox-accounting の 「sandbox」は、Netflix 韓国ドラマ 「START-UP」 より、すべての開発者のための 地ならし になればという想いから命名されました。
+なお、各リポジトリのリソースは、そのままクラウド環境におけるアプリケーションにも適用可能です。
 
 ## 前提条件  
 sap-sandbox-accounting は、オンプレミス版である（＝クラウド版ではない）SAPS4HANA API の利用を前提としています。  
